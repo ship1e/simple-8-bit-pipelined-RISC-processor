@@ -14,6 +14,7 @@ This repository contains the design and implementation of a custom
 - `src/memory/` : Unified memory module
 - `src/core/`   : Processor core (ALU, registers, control, muxes)
 - `docs/`       : Project report and ISA documentation
+- `synthesis/`  : synthesis reports (timing, utilization, schematic) 
 
 ## Author
 Mohamed Mustafa Shiple  
